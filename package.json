@@ -40,7 +40,7 @@
     "node-fetch": "2.2.0",
     "ramda": "0.25.0",
     "raven": "2.6.3",
-    "watson-developer-cloud": "3.7.1"
+    "watson-developer-cloud": "4.0.1"
   },
   "devDependencies": {
     "husky": "^1.0.0-rc.13",
