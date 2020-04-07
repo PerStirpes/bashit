@@ -39,7 +39,7 @@
     "express": "4.16.2",
     "node-fetch": "2.2.0",
     "ramda": "0.25.0",
-    "raven": "2.6.3",
+    "raven": "2.6.4",
     "watson-developer-cloud": "3.7.1"
   },
   "devDependencies": {
